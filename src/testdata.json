@@ -1,0 +1,46 @@
+{
+    "meeting_date": "October 1st, 2023",
+    "meeting_time": "1:00 PM",
+    "meeting_location": "Borger City Hall",
+    "attendees": [
+      "Maddox",
+      "Kyla",
+      "Ezra",
+      "Ayden",
+      "Mariah",
+      "Rosa",
+      "Deidra"
+    ],
+    "agenda": [
+      "Call to order at 1:00 PM",
+      "Previous Transactions",
+      "Unfinished Business",
+      "New Business",
+      "Adjournment at 2:00 PM"
+    ],
+    "meeting_summary": "During our meeting, we addressed several points of unfinished business, including discussing volunteer opportunities at Boomtober Fest, selecting a movie for the Halloween carnival (with the remaining discussions postponed to our next meeting), deliberating the potential fundraiser at the ice skating rink, and conducting officer elections. Additionally, under new business, we explored various fundraising concepts, examined our social media strategy, and reviewed details regarding the upcoming spooky tour scheduled for October 21st.",
+    "agenda_items": [
+      {
+        "title": "Call to order at 1:00 PM",
+        "description": "The meeting was called to order at 1:00 PM"
+      },
+      {
+        "title": "Previous Transactions",
+        "description": "Discussing about how we should volunteer for the Boomtober fest, and we picked who is going to do what job there."
+      },
+      {
+        "title": "Unfinished Business",
+        "description": "Picking the movie to show at the Halloween Carnival (Decided on “The Ring”)\nHow we should fundraise at the ice rink\nVoting on our officers for the year"
+      },
+      {
+        "title": "New Business",
+        "description": "Discussing fundraising ideas\nDiscussing what should be on the social media, and who should be the orchestrator of picking what should be posted there."
+      },
+      {
+        "title": "Adjournment at 2:00 PM",
+        "description": "The meeting was adjourned at 2:00 PM"
+      }
+    ],
+    "next_meeting": "October 22nd, 2023",
+    "adjournment_time": "2:00 PM"
+}
